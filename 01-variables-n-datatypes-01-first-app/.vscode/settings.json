@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/x/Desktop/dev/ilschool/v2-grunder/01-variables-n-datatypes-01-first-app",
+            "binaryPath": "/Users/x/Desktop/dev/ilschool/v2-grunder/01-variables-n-datatypes-01-first-app/main.exe",
+            "binaryArgs": []
+        }
+    ]
+}
